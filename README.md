@@ -15,5 +15,7 @@ Problem Set| Code | Result
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/FizzBuzz.java) | Accepted
 [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Harshad.java) | Accepted
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Hiss.java) | Accepted
-[Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Estimates.java) | Accepted
 [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/IsItHalloween.java) | Accepted
+[Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/MissingNumbers.java) | Accepted
+[Number Fun]() | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/NumberFun.java) | Accepted
+[Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Estimates.java) | Accepted
