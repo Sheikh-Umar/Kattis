@@ -11,3 +11,4 @@ Problem Set| Code | Result
 [Bijele](https://open.kattis.com/problems/bijele) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Bijele.java) | Accepted
 [Cake](https://open.kattis.com/problems/cake) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Cake.java) | Accepted
 [Cetvrta](https://open.kattis.com/problems/cake) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Cetvrta.java) | Accepted
+[Dice Cup](https://open.kattis.com/problems/dicecup) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Dice.java) | Accepted
