@@ -17,5 +17,8 @@ Problem Set| Code | Result
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Hiss.java) | Accepted
 [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/IsItHalloween.java) | Accepted
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/MissingNumbers.java) | Accepted
-[Number Fun]() | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/NumberFun.java) | Accepted
+[Number Fun](https://open.kattis.com/problems/numberfun) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/NumberFun.java) | Accepted
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Estimates.java) | Accepted
+[Reverse Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Reverse.java) | Accepted
+[Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/SW.java) | Accepted
+[Speed Limit](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/SpeedLimit.java) | Accepted
