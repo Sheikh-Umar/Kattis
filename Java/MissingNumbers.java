@@ -72,7 +72,7 @@ class MissingNumbers {
 
     // Method displays success message
     // Precon: No missing numbers found among numbers that user entered
-    // Postcon: Ni;
+    // Postcon: Nil
     private void displaysMessage() {
         System.out.println("good job");
     }
