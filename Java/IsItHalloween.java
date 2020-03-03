@@ -12,6 +12,7 @@ class Halloween {
         } else {
             System.out.println("nope");
         }
+        sc.close();
     }
     
     public static void main(String[] args) {
