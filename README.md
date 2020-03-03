@@ -18,6 +18,7 @@ Problem Set| Code | Result
 [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/IsItHalloween.java) | Accepted
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/MissingNumbers.java) | Accepted
 [Number Fun](https://open.kattis.com/problems/numberfun) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/NumberFun.java) | Accepted
+[Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Pet.java) | Accepted
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Estimates.java) | Accepted
 [Reverse Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/Reverse.java) | Accepted
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/Java/SW.java) | Accepted
