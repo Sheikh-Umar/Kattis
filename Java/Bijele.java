@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 class Bijele {
@@ -14,6 +13,7 @@ class Bijele {
         for (int i = 0; i < input.length; i++) {
             input[i] = sc.nextInt();
         }
+        sc.close();
         return input;
     }
     

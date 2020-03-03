@@ -8,6 +8,7 @@ class FizzBuzz {
         for (int i = 0; i < val.length; i++) {
             val[i] = sc.nextInt();
         }
+        sc.close();
         return val;
     }
     
