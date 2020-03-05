@@ -25,4 +25,5 @@ Problem Set| Code | Result
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Estimates.java) | Accepted
 [Reverse Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Reverse.java) | Accepted
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SW.java) | Accepted
+[Spanavac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Spavanac.java) | Accepted
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SpeedLimit.java) | Accepted
