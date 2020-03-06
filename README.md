@@ -22,15 +22,9 @@ Problem Set| Code | Result
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/MissingNumbers.java) | Accepted
 [Number Fun](https://open.kattis.com/problems/numberfun) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/NumberFun.java) | Accepted
 [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Pet.java) | Accepted
-
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Estimates.java) | Accepted
-
 [Reverse Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Reverse.java) | Accepted
-
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SW.java) | Accepted
-
 [Spanavac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Spanavac.java) | Accepted
-
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SpeedLimit.java) | Accepted
-
 [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SimpleAddition.java) | Accepted
