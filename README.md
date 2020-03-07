@@ -17,7 +17,7 @@ Problem Set| Code | Result
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/FizzBuzz.java) | Accepted
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/HangingOut.java) | Accepted
 [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Harshad.java) | Accepted
-[Hello World!](https://open.kattis.com/problems/hello) | [C](https://github.com/Sheikh-Umar/kattis/tree/master/c), [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/HelloWorld.java) | Accepted
+[Hello World!](https://open.kattis.com/problems/hello) | [C](https://github.com/Sheikh-Umar/kattis/tree/master/c/HelloWorld.c), [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/HelloWorld.java) | Accepted
 [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/HelpPhD.java) | Accepted 
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Hiss.java) | Accepted
 [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/IsItHalloween.java) | Accepted
