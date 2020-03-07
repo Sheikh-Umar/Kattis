@@ -14,6 +14,7 @@ Problem Set| Code | Result
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Cetvrta.java) | Accepted
 [Dice Cup](https://open.kattis.com/problems/dicecup) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Dice.java) | Accepted
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/FizzBuzz.java) | Accepted
+[Hanging Out](https://open.kattis.com/problems/hangingout) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/HangingOut.java) | Accepted
 [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Harshad.java) | Accepted
 [Hello World!](https://open.kattis.com/problems/hello) | [C](https://github.com/Sheikh-Umar/kattis/tree/master/c), [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/HelloWorld.java) | Accepted
 [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/HelpPhD.java) | Accepted 
