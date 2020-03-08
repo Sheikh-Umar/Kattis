@@ -18,9 +18,13 @@ Problem Set| Code | Result
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/HangingOut.java) | Accepted
 [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Harshad.java) | Accepted
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Hiss.java) | Accepted
+[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Everywhere.java) | Accepted
 [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/IsItHalloween.java) | Accepted
+[Judging Moose](https://open.kattis.com/problems/judgingmoose) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/JudgingMoose.java) | Accepted
+[Ladder](https://open.kattis.com/problems/ladder) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Ladder.java) | Accepted
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/MissingNumbers.java) | Accepted
 [Number Fun](https://open.kattis.com/problems/numberfun) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/NumberFun.java) | Accepted
+[Oddities](https://open.kattis.com/problems/oddities)| [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Oddities.java) | Accepted
 [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Pet.java) | Accepted
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Estimates.java) | Accepted
 [Reverse Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Reverse.java) | Accepted
