@@ -7,6 +7,7 @@ Profile: https://open.kattis.com/users/sheikh-umar-banafe
 Problem Set| Code | Result
 ---------- | ---------- | ---------- |
 [ABC](https://open.kattis.com/problems/abc) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/ABC.java) | Accepted
+[Another Candies](https://open.kattis.com/problems/anothercandies) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Candies.java) | Accepted
 [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Apaxians.java) | Accepted
 [Bijele](https://open.kattis.com/problems/bijele) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Bijele.java) | Accepted
 [Cake](https://open.kattis.com/problems/cake) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Cake.java) | Accepted
@@ -28,9 +29,14 @@ Problem Set| Code | Result
 [Number Fun](https://open.kattis.com/problems/numberfun) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/NumberFun.java) | Accepted
 [Oddities](https://open.kattis.com/problems/oddities)| [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Oddities.java) | Accepted
 [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Pet.java) | Accepted
+[Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Quadrant.java) | Accepted
+[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/QALY.java) | Accepted
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Estimates.java) | Accepted
 [Reverse Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Reverse.java) | Accepted
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SW.java) | Accepted
+[Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SimpleAddition.java) | Accepted
 [Spanavac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Spanavac.java) | Accepted
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SpeedLimit.java) | Accepted
-[Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SimpleAddition.java) | Accepted
+[Sibice](https://open.kattis.com/problems/sibice) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Sibice.java) | Accepted
+[Take Two Stones](https://open.kattis.com/problems/twostones) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/TTS.java) | Accepted
+[Tarifa](https://open.kattis.com/problems/tarifa) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Tarifa.java) | Accepted
