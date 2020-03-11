@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Cake {
+class PieceOfCake {
 
     private boolean isTest = false;
 
