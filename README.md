@@ -7,6 +7,7 @@ Profile: https://open.kattis.com/users/sheikh-umar-banafe
 Problem Set| Code | Result
 ---------- | ---------- | ---------- |
 [ABC](https://open.kattis.com/problems/abc) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/ABC.java) | Accepted
+[Above Average](https://open.kattis.com/problems/aboveaverage) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/AboveAverage.java) | Accepted
 [Another Candies](https://open.kattis.com/problems/anothercandies) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Candies.java) | Accepted
 [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Apaxians.java) | Accepted
 [Autori](https://open.kattis.com/problems/autori) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Autori.java) | Accepted
