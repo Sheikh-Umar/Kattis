@@ -41,6 +41,7 @@ Problem Set| Code | Result
 [Sibice](https://open.kattis.com/problems/sibice) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Sibice.java) | Accepted
 [Simon Says](https://open.kattis.com/problems/simonsays) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SimonSays.java) | Accepted
 [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SimpleAddition.java) | Accepted
+[Solving for Carrots](https://open.kattis.com/problems/carrots) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/HufflePuff.java) | Accepted
 [Spanavac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Spanavac.java) | Accepted
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SpeedLimit.java) | Accepted
 [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Abracadabra.java) | Accepted
