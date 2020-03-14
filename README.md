@@ -32,6 +32,7 @@ Problem Set| Code | Result
 [Oddities](https://open.kattis.com/problems/oddities)| [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Oddities.java) | Accepted
 [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Pet.java) | Accepted
 [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Cake.java) | Accepted
+[Pot](https://open.kattis.com/problems/pot) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Pot.java) | Accepted
 [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Quadrant.java) | Accepted
 [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/QALY.java) | Accepted
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Estimates.java) | Accepted
