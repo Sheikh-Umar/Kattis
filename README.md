@@ -37,6 +37,7 @@ Problem Set| Code | Result
 [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/QALY.java) | Accepted
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Estimates.java) | Accepted
 [Reverse Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Reverse.java) | Accepted
+[Roaming Romans](https://open.kattis.com/problems/romans) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Romans.java) | Accepted
 [R2](https://open.kattis.com/problems/r2) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/R2.java) | Accepted
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/SW.java) | Accepted
 [Sibice](https://open.kattis.com/problems/sibice) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Sibice.java) | Accepted
