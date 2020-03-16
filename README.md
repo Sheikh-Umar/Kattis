@@ -28,6 +28,7 @@ Problem Set| Code | Result
 [Ladder](https://open.kattis.com/problems/ladder) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Ladder.java) | Accepted
 [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/LFD.java) | Accepted
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/MissingNumbers.java) | Accepted
+[Modulo](https://open.kattis.com/problems/modulo) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Modulo.java) | Accepted
 [Number Fun](https://open.kattis.com/problems/numberfun) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/NumberFun.java) | Accepted
 [Oddities](https://open.kattis.com/problems/oddities)| [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Oddities.java) | Accepted
 [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Pet.java) | Accepted
