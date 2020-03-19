@@ -13,8 +13,8 @@ Problem Set| Code | Result
 [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Apaxians.java) | Accepted
 [Autori](https://open.kattis.com/problems/autori) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Autori.java) | Accepted
 [Bijele](https://open.kattis.com/problems/bijele) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Bijele.java) | Accepted
-[Cold-puter Science](https://open.kattis.com/problems/cold) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/CS.java) | Accepted
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Cetvrta.java) | Accepted
+[Cold-puter Science](https://open.kattis.com/problems/cold) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/CS.java) | Accepted
 [Dice Cup](https://open.kattis.com/problems/dicecup) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Dice.java) | Accepted
 [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Faktor.java) | Accepted
 [Filip](https://open.kattis.com/problems/filip) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Filip.java) | Accepted
@@ -31,6 +31,7 @@ Problem Set| Code | Result
 [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/LFD.java) | Accepted
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/MissingNumbers.java) | Accepted
 [Modulo](https://open.kattis.com/problems/modulo) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Modulo.java) | Accepted
+[Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/NastyHacks.java) | Accepted
 [Number Fun](https://open.kattis.com/problems/numberfun) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/NumberFun.java) | Accepted
 [Oddities](https://open.kattis.com/problems/oddities)| [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Oddities.java) | Accepted
 [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Pet.java) | Accepted
