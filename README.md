@@ -32,6 +32,7 @@ Problem Set| Code | Result
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/MissingNumbers.java) | Accepted
 [Modulo](https://open.kattis.com/problems/modulo) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Modulo.java) | Accepted
 [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/NastyHacks.java) | Accepted
+[No Duplicates](https://open.kattis.com/problems/nodup) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/ND.java) | Accepted
 [Number Fun](https://open.kattis.com/problems/numberfun) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/NumberFun.java) | Accepted
 [Oddities](https://open.kattis.com/problems/oddities)| [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Oddities.java) | Accepted
 [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Pet.java) | Accepted
