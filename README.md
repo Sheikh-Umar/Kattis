@@ -19,6 +19,7 @@ Problem Set| Code | Result
 [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Faktor.java) | Accepted
 [Filip](https://open.kattis.com/problems/filip) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Filip.java) | Accepted
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/FizzBuzz.java) | Accepted
+[FreeFood](https://open.kattis.com/problems/freefood) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/FreeFood.java) | Accepted
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/HangingOut.java) | Accepted
 [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/Harshad.java) | Accepted
 [Hello World!](https://open.kattis.com/problems/hello) | [C](https://github.com/Sheikh-Umar/kattis/tree/master/c/HelloWorld.c), [Java](https://github.com/Sheikh-Umar/kattis/blob/master/java/HelloWorld.java) | Accepted
